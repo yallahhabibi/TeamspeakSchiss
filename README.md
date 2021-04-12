@@ -4,9 +4,9 @@
 ## _Wie funktioniert dat?_
 
 1. Geht auf [diesen Link][df1]
-2. Fügt euern Scheiß hinzu
-3. Kreuzt "Create a new branch for this commit and start a pull request." an und drückt auf den "Propose Changes"-Button
-4. Bestätigt alles nochmal im nächsten Fenster
+2. Fork die Repository
+3. Schreib deinen Scheiß in den Paulaner.txt
+4. Dann macht eine Pull Request und immer den grünen Button drücken:)
 FERTIG
 
 
